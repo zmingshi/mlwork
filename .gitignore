@@ -1,2 +1,6 @@
 .ipynb_checkpoints/*
 .ipynb_checkpoints
+MNIST.*
+news.model
+Qiubai/*
+Content/*
