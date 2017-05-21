@@ -2,5 +2,5 @@
 .ipynb_checkpoints
 MNIST.*
 news.model
-Qiubai/*
-Content/*
+9.lda/Content/*
+9.lda/Qiubai/*
