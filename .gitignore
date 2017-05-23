@@ -4,3 +4,4 @@ MNIST.*
 news.model
 9.lda/Content/*
 9.lda/Qiubai/*
+dataset/ml-100k/*
